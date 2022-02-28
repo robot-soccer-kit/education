@@ -1,0 +1,17 @@
+**#
+**.swp
+**.aux
+**.log
+**.bbl
+**.blg
+**.out
+**.nav
+**.snm
+**.toc
+**.pdf
+**.fls
+**.nlo
+**.fdb_latexmk
+**auto
+**synctex.gz
+.vscode
